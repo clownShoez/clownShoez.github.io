@@ -22,11 +22,15 @@ body {
 
 .main-hero .btn-subscribe {
   position: absolute;
-  bottom: 80px;
+  top: 370px;
   left: calc(50% - 70px);
   padding: 10px 30px;
   background-color: darkorange;
   border-color: darkorange;
   color: #181818;
   font-weight: 700;
+}
+
+#mc-embedded-subscribe {
+  margin: 0;
 }
